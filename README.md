@@ -22,6 +22,7 @@ Perhatian: Karakter ‘/’ adalah karakter ilegal dalam penamaan file atau fold
 
 
 ### Jawaban :
+membuat fungsi untuk enkripsi dan dekripsi
 
 ## Nomor 2
 ### Soal :
